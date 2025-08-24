@@ -2,7 +2,7 @@ import requests
 
 url="https://api.openweathermap.org/data/2.5/weather"
 
-api_key="a2a60e5a5258fd801a9cc17d23d3cf18"
+api_key=""
 
 queries={
     "q":input("Enter the city name: "),
